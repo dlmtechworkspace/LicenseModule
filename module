@@ -10,7 +10,8 @@
   "killmsg": "A licensing maintenance is on-going right now. Check comms for more info.", 
 
   "licensingversions": [
-    "1"
+    "1",
+    "2"
   ],
 
   "bypass": {
