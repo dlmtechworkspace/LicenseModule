@@ -1,5 +1,5 @@
 {
-  "webhookurl": "https://licensing.dlmtech-workspace.workers.dev",
+  "webhookurl": "https://licensing.dlmtech.workers.dev/",
   "webhookicon": "https://www.image2url.com/r2/default/images/1783543294619-a5944483-5063-4b99-a172-df462352d449.png",
   "apibase": "https://api.onpointrblx.com/vendr/v2/licences/getlicence/roblox",
   "hubid": "nBJ89pSrT4",
